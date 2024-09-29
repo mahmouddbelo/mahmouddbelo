@@ -15,7 +15,7 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/mahmoud-abdelaal-99bb47276/" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Elbahy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mahmoud-abdelaal-99bb47276/" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/mahmouddabdelaal/" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
